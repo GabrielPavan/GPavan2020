@@ -2,4 +2,3 @@
 - 👀 I’m interested in expand my possibilities.
 - 🌱 I’m currently learning Java, MySQL, C/C++.
 - 💞️ I’m looking to collaborate on development.
-- 📫 How to reach me gabrielpavan2014@outlook.com
