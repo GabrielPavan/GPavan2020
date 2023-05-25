@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GabrielPavan
 - 👀 I’m interested in expand my possibilities.
-- 🌱 I’m currently learning Java, SQL, C/C++.
+- 🌱 I’m currently learning Java, VB.NET, C#.
 - 💞️ I’m looking to collaborate on development.
